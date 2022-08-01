@@ -42,7 +42,18 @@ main {
     z-index: 1;
     position: absolute;
     left: -20%;
-    top: -5%;
+    top: 10%;
+}
+
+.botoes {
+    display: flex;
+}
+
+.alterar {
+    color: white;
+    background: rgb(149, 194, 207);
+    font-size: 20px;
+    cursor: pointer;
 }
 
 .titulo {
