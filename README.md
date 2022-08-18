@@ -11,4 +11,4 @@
 
 
 
-#### O Curos faz parte da formação Javascript para Front-End em sua primeira parte *JavaScript a linguagem da Web*
+#### O Curso faz parte da formação Javascript para Front-End em sua primeira parte *JavaScript a linguagem da Web*
